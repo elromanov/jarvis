@@ -1,9 +1,6 @@
 from gtts import gTTS
-from playsound import playsound
 import pygame
 from io import BytesIO
-
-# pygame.mixer.init()
 
 class Speaker:
     def __init__(self):

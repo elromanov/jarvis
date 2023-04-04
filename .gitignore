@@ -1,2 +1,4 @@
 models/*
 !info.md
+
+/ressources/gpt-key.json

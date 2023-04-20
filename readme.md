@@ -4,14 +4,14 @@
 * deepspeech
 * gTTS 
 * pygame 
-* openai
+* transformers
 
 # How to install dependencies
 ```
 py -m pip install deepspeech
 py -m pip install gTTS
 py -m pip install pygame
-py -m pip install openai
+py -m pip install transformers
 ```
 
 # How to run

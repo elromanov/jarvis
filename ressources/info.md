@@ -5,6 +5,6 @@ Then, create a `config.json` file that will contain your key:
 
 ```
 {
-    "gpt_key": "YOUR-GPT-KEY"
+    "gpt-key": "YOUR-GPT-KEY"
 }
 ```
